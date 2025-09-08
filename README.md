@@ -3,6 +3,8 @@
 This project is an **Automatic Number Plate Recognition system** built with Python, OpenCV, and YOLO models.  
 It detects vehicles in a video, locates their license plates using a custom-trained YOLO model, and finally extracts the plate text using an OCR specialized for license plates.
 
+![License Demo](assets/output4.gif)
+
 ---
 
 ## 🔍 How it works
